@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+*
+{
+    overflow-x: hidden;
+}
+
+form
+{
+    border-radius: 1%;
+    background-image: url(black.jpg);
+    opacity: 0.9;
+    width: 30vw;
+    margin-left: 35vw;
+}
+body
+{
+    background-image: url(netflix-image.jpg);
+    text-align: center;
+    scale: 101%;
+
+}
+input[type=reset]
+{
+    color: rgb(201, 56, 56);
+    font-family: "Bebas Neue", sans-serif;
+}
+input[type=submit]
+{
+    color: rgb(177, 56, 56);
+    font-family: "Bebas Neue", sans-serif;
+}
+input
+{
+    color: white;
+    border: none;
+}
+textarea {
+    background-color: rgb(161, 161, 161);
+
+    border: none;
+  }
+
+
+
+legend
+{
+    font-family: "Bebas Neue", sans-serif;
+    text-align: center;
+    font-size: 30px;
+    color: #be1b21;
+}
+label
+{
+    color: white;
+    font-family: "Bebas Neue", sans-serif;
+}
+
+
+h1
+{
+    font-family: "Bebas Neue", sans-serif;
+    text-align: center;
+    color: #be1b21;
+}
+submit 
+{
+    color: white;
+    font-family: "Bebas Neue", sans-serif;
+}
+reset 
+{
+    color: white;
+    font-family: "Bebas Neue", sans-serif;
+}
